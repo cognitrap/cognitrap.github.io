@@ -1,9 +1,2 @@
----
-title: "Test"
-output: html_document
----
 
-
-### Resources
-
-#### [Bok](bok.pdf)
+#### Bok i linjär algebra: [Bok](bok.pdf)
