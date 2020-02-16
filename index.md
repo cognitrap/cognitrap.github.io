@@ -6,4 +6,4 @@ output: html_document
 
 ### Resources
 
-#### [Bok](bok.pdf)
+#### [Bok](linjalg_sammanslag.pdf)
