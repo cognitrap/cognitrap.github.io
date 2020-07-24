@@ -1,16 +1,16 @@
 
 ## Matematik
-### Linjär algebra
-#### Bok i linjär algebra: [Bok](cognitrap.github.io/bok.pdf)
-#### Resurs till Bok: [Del2](cognitrap.github.io/Del2.pdf)
+###   Linjär algebra
+####     Bok i linjär algebra: [Bok](cognitrap.github.io/bok.pdf)
+####     Resurs till Bok: [Del2](cognitrap.github.io/Del2.pdf)
 
-### Flervariabelanalys
+###   Flervariabelanalys
 
 
 
 
 ## Fysik
-#### Långsam fysikkurs
+####    Långsam fysikkurs
 
 
 ## Programmering:
