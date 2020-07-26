@@ -1,8 +1,10 @@
 
 ## Matematik
 ###   Linjär algebra
-####     Bok i linjär algebra: [Bok](cognitrap.github.io/bok.pdf)
-####     Resurs till Bok: [Del2](cognitrap.github.io/Del2.pdf)
+####     Bok i linjär algebra: [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/bok.pdf)
+
+
+####     Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)
 
 ###   Flervariabelanalys
 
