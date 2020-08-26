@@ -21,4 +21,5 @@
 #### <!-- -->
 ## Programmering:
 
+Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe men det är bara att klicka på länken. Du kommer, så småningom, till en lista med filer. Klicka på filen som heter index och det hela går igång. 
 #### Python3: [Python3]( cognitrap.github.io/progr/index.ipynb )
