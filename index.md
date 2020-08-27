@@ -22,4 +22,4 @@
 ## Programmering:
 
 Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe men det är bara att klicka på länken. 
-#### Python3: [Python3]( https://mybinder.org/v2/gh/cognitrap/progr/master)
+#### Python3: [Python3]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb)
