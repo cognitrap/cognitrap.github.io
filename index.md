@@ -16,7 +16,8 @@
 #### Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)
 #### Kraftbegrepp: [Force](cognitrap.github.io/Fysik/LångsamFysikkurs/Force.pdf)
 #### Rörelsemängd: [Momentum](cognitrap.github.io/Fysik/LångsamFysikkurs/Momentum.pdf)
-#### <!-- -->
+#### Rotationsrörelse: [Rotation](cognitrap.github.io/Fysik/LångsamFysikkurs/Rotation.pdf)
+
 #### <!-- -->
 #### <!-- -->
 ## Programmering:
