@@ -1,6 +1,6 @@
 
 ## Matematik
-###   Linjär algebra
+###   Linjär algebra (stängt för tillfället)
 ####   <!--  Bok i linjär algebra:  [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/bok.pdf) -->
 
 
@@ -14,10 +14,16 @@
 ## Fysik
 ###    Långsam fysikkurs
 #### Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)
+
 #### Kraftbegrepp: [Force](cognitrap.github.io/Fysik/LångsamFysikkurs/Force.pdf)
+
 #### Rörelsemängd: [Momentum](cognitrap.github.io/Fysik/LångsamFysikkurs/Momentum.pdf)
+
+#### Kaströrelse: [Projectile](cognitrap.github.io/Fysik/LångsamFysikkurs/Projectile.pdf)
+
 #### Rotationsrörelse: [Rotation](cognitrap.github.io/Fysik/LångsamFysikkurs/Rotation.pdf)
 
+#### <!-- -->
 #### <!-- -->
 #### <!-- -->
 ## Programmering:
