@@ -24,7 +24,7 @@
 
 #### Rotationsrörelse: [Rotation](cognitrap.github.io/Fysik/LångsamFysikkurs/Rotation.pdf)
 
-#### <!-- -->
+
 #### <!-- -->
 #### <!-- -->
 ## Programmering:
