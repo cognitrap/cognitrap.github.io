@@ -10,7 +10,7 @@
 
 ###   Flervariabelanalys
 
-Geogebrafiler [Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler.md)
+[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/Geogebrafiler.md)
 
 
 #### <!-- -->
