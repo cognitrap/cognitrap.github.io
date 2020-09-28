@@ -1,4 +1,5 @@
 
+
 ## Matematik
 ###   Linjär algebra (stängt för tillfället)
 ####   <!--  Bok i linjär algebra:  [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/bok.pdf) -->
@@ -8,6 +9,10 @@
 
 
 ###   Flervariabelanalys
+
+[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler.pdf)
+
+
 #### <!-- -->
 
 
