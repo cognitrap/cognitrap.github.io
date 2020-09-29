@@ -1,4 +1,7 @@
-
+---
+title: "Diverse"
+output: html_document
+---
 
 ## Matematik
 ###   Linjär algebra (stängt för tillfället)
@@ -10,7 +13,7 @@
 
 ###   Flervariabelanalys
 
-[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)
+[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.Rmd)
 
 
 #### <!-- -->
