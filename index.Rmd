@@ -13,7 +13,7 @@ output: html_document
 
 ###   Flervariabelanalys
 
-[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.Rmd)
+[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)
 
 
 #### <!-- -->
