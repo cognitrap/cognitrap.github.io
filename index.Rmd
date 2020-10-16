@@ -4,8 +4,8 @@ output: html_document
 ---
 
 ## Matematik
-###   Linjär algebra (stängt för tillfället)
-####   <!--  Bok i linjär algebra:  [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/bok.pdf) -->
+###   Linjär algebra
+####   Bok i linjär algebra:  [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf)
 
 
 ####     <!-- Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf) -->
