@@ -11,7 +11,7 @@ output: html_document
 ####     <!-- Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf) -->
 
 
-###   Flervariabelanalys
+###   Flerdimensionell analys
 
 [Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)
 
