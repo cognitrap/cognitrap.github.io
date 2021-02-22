@@ -7,7 +7,7 @@ output: html_document
 ###   Linjär algebra
 ####   Bok i linjär algebra: [Bok/pdf](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf)
 #### Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)
-#### Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/main?filepath=index.ipynb)
+#### Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/master?filepath=index.ipynb)
 ####  Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)
 
 
