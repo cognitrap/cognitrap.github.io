@@ -1,19 +1,20 @@
 ---
-title: "Diverse"
+title: "Diversehandel"
 output: html_document
 ---
 
 ## Matematik
 ###   Linjär algebra
-####   Bok i linjär algebra: <!-- [Bok](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf) -->
+####   Bok i linjär algebra: [Bok/pdf](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf)
+#### Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)
+#### Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/master?filepath=index.ipynb)
+####  Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)
 
-
-####     <!-- Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf) -->
 
 
 ###   Flerdimensionell analys
 
-[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)
+<!--[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html) -->
 
 
 #### <!-- -->
