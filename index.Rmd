@@ -5,7 +5,6 @@ output: html_document
 <body style="background-color:powderblue;">
 
 <style>
-h1 {text-align: center;}
 
 </style>
 
@@ -49,8 +48,7 @@ h1 {text-align: center;}
 
 <h1> Programmering </h1>
 
-Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe men det är bara att klicka på länken. 
-[Python3]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb)
-eller gå direkt till github och ladda ner (du måste ha jupyterlab på din dator).
+#### Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe
+#### men det är bara att klicka på länken: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).
 
 </body>
