@@ -2,8 +2,10 @@
 title: "Diversehandel"
 output: html_document
 ---
+<body style="background-color:powderblue;">
 
-## Matematik
+## 
+<h1> Matematik </h1>
 ###   Linjär algebra
 ####   Bok i linjär algebra: [Bok/pdf](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf)
 #### Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)
@@ -18,7 +20,7 @@ output: html_document
 
 
 #### <!-- -->
-
+<hr>
 
 
 ## Fysik
@@ -42,3 +44,4 @@ Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger p
 [Python3]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb)
 eller gå direkt till github och ladda ner (du måste ha jupyterlab på din dator).
 
+</body>
