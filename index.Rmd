@@ -53,5 +53,22 @@ h1 {text-align: center;}
 #### Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe
 #### men det är bara att klicka på länken: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).
 
+
+##  
+##  
+##  
+##  
+##  
+#### <!-- -->
+#### <!-- -->
+
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=3693454772387063271&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
+
+
+
+
+
 <footer>&copy; Leif Karlsson 2021 </footer>
 </body>
