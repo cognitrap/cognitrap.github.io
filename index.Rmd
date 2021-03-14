@@ -2,7 +2,18 @@
 title: "Diversehandel"
 output: html_document
 ---
+<head>
+<meta name="author" content="Leif Karlsson">
+<meta name="description" content="Bok i linjär algebra; En långsam kurs i fysik (gymnasienivå)">
+
+
+</head>
+
+
+
 <body style="background-color:powderblue;">
+
+
 
 <h1>  </h1>
 <style>
