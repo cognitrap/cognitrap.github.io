@@ -33,7 +33,7 @@ output: html_document
     </tr>
     
   <tr>
-    <td>Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/master?filepath=index.ipynb)</td>
+    <td>Projektuppgifter: [Uppgifter/mybinder](https://mybinder.org/v2/gh/cognitrap/LA.git/HEAD?filepath=index.ipynb)</td>
     <td></td>
     </tr>
     
