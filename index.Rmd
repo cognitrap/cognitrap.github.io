@@ -7,6 +7,9 @@ output: html_document
 <meta name="description" content="Bok i linjär algebra; En långsam kurs i fysik (gymnasienivå). Python, programmering. Gratis">
 </head>
 
+<style>
+th {text-align: left;}
+</style>
 
 <body style="background-color:powderblue;">
 
@@ -44,17 +47,12 @@ output: html_document
     
 </table> 
 
-
-
-
-***
+<br>
 
 <!--###   Flerdimensionell analys -->
 
 <!--[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html) -->
 
-
-#### <!-- -->
 
  <table style="width:100%">
   <tr>
@@ -70,63 +68,51 @@ output: html_document
 
 <tr>
     <td>Rörelsebegrepp: [Movement](/Fysik/LångsamFysikkurs/Movement.pdf)</td>
-    <th></th>
+    <td></td>
   </tr>
 
 
 <tr>
     <td>Kraftbegrepp: [Force](/Fysik/LångsamFysikkurs/Force.pdf)</td>
-    <th></th>
+    <td></td>
   </tr>
   
   
   <tr>
     <td>Rörelsemängd: [Momentum](/Fysik/LångsamFysikkurs/Momentum.pdf)</td>
-    <th></th>
+    <td></td>
   </tr>
-
 
 
 <tr>
     <td>Kaströrelse: [Projectile](/Fysik/LångsamFysikkurs/Projectile.pdf)</td>
-    <th></th>
+    <td></td>
   </tr>
 
 <tr>
     <td>Rotationsrörelse: [Rotation](/Fysik/LångsamFysikkurs/Rotation.pdf)</td>
+    <td></td>
+  </tr>
+
+<br>
+
+<table style="width:100%">
+  <tr>
+    <th><h2> Programmering </h2></th>
     <th></th>
   </tr>
 
 
+<tr>
+<td>Python/Jupyter:[Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
+<td></td>
+</tr>
 
-
-#### <!-- -->
-#### <!-- -->
-
-<hr>
-
-<h2> Programmering </h2>
-
-#### Materialet är byggt med hjälp av jupyter notebook. Värden för detta ligger på ett annat ställe
-#### men det är bara att klicka på länken: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).
-
-
-##  
-##  
-##  
-##  
-##  
-#### <!-- -->
-#### <!-- -->
-
-
+</table>
 
 <!-- Start of SimpleHitCounter Code -->
 <div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=3693454772387063271&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
 <!-- End of SimpleHitCounter Code -->
-
-
-
 
 
 <footer>&copy; Leif Karlsson 2021 </footer>
