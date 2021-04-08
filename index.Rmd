@@ -70,7 +70,7 @@ output: html_document
 
 
 <tr>
-    <td>Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)</td>
+    <td>Rörelsebegrepp: [Movement](/Fysik/LångsamFysikkurs/Movement.pdf)</td>
     <th></th>
   </tr>
 
