@@ -68,30 +68,36 @@ output: html_document
   </tr>
 
 
-
 <tr>
     <td>Rörelsebegrepp: [Movement](/Fysik/LångsamFysikkurs/Movement.pdf)</td>
     <th></th>
   </tr>
 
 
+<tr>
+    <td>Kraftbegrepp: [Force](/Fysik/LångsamFysikkurs/Force.pdf)</td>
+    <th></th>
+  </tr>
+  
+  
+  <tr>
+    <td>Rörelsemängd: [Momentum](/Fysik/LångsamFysikkurs/Momentum.pdf)</td>
+    <th></th>
+  </tr>
 
 
 
+<tr>
+    <td>Kaströrelse: [Projectile](/Fysik/LångsamFysikkurs/Projectile.pdf)</td>
+    <th></th>
+  </tr>
+
+<tr>
+    <td>Rotationsrörelse: [Rotation](/Fysik/LångsamFysikkurs/Rotation.pdf)</td>
+    <th></th>
+  </tr>
 
 
-<h2> Fysik </h2>
-
-###    Långsam fysikkurs
-#### Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)
-
-#### Kraftbegrepp: [Force](cognitrap.github.io/Fysik/LångsamFysikkurs/Force.pdf)
-
-#### Rörelsemängd: [Momentum](cognitrap.github.io/Fysik/LångsamFysikkurs/Momentum.pdf)
-
-#### Kaströrelse: [Projectile](cognitrap.github.io/Fysik/LångsamFysikkurs/Projectile.pdf)
-
-#### Rotationsrörelse: [Rotation](cognitrap.github.io/Fysik/LångsamFysikkurs/Rotation.pdf)
 
 
 #### <!-- -->
