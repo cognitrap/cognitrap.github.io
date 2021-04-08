@@ -28,7 +28,7 @@ output: html_document
   </tr>
   
   <tr>
-    <td>Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)</td>
+    <td>Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/main?filepath=index.ipynb)</td>
     <td></td>
     </tr>
     
