@@ -33,7 +33,7 @@ output: html_document
     </tr>
     
   <tr>
-    <td>Projektuppgifter: [Uppgifter/mybinder](https://mybinder.org/v2/gh/LA/HEAD?filepath=index.ipynb)</td>
+    <td>Projektuppgifter: [Uppgifter/mybinder](https://mybinder.org/v2/gh/LA.git/HEAD?filepath=index.ipynb)</td>
     <td></td>
     </tr>
     
@@ -100,6 +100,8 @@ output: html_document
 ##  
 #### <!-- -->
 #### <!-- -->
+
+
 
 <!-- Start of SimpleHitCounter Code -->
 <div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=3693454772387063271&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
