@@ -5,21 +5,49 @@ output: html_document
 <head>
 <meta name="author" content="Leif Karlsson">
 <meta name="description" content="Bok i linjär algebra; En långsam kurs i fysik (gymnasienivå). Python, programmering. Gratis">
-
-
 </head>
-
 
 
 <body style="background-color:powderblue;">
 
+***
+ <table style="width:100%">
+  <tr>
+    <th><h2> Matematik </h2></th>
+    <th></th>
+  </tr>
+  
+  <tr>
+    <td><h3>Linjär algebra</h3></td>
+    <td><h3>Diskret</h3></td>
+  </tr>
+  
+  <tr>
+    <td>Bok i linjär algebra: [Bok/pdf](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf) 210308</td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+    <td>Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/master?filepath=index.ipynb)</td>
+    <td></td>
+    </tr>
+    
+  <tr>
+    <td>Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)</td>
+    <td></td>
+    </tr>
+    
+</table> 
 
 
-<h1>  </h1>
-<style>
-h1 {text-align: center;}
-</style>
 
+
+***
 
 ## 
 <h2> Matematik </h2>
