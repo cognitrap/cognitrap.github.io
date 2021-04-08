@@ -2,6 +2,9 @@
 title: "Diversehandel"
 output: html_document
 ---
+
+<html>
+
 <head>
 <meta name="author" content="Leif Karlsson">
 <meta name="description" content="Bok i linjär algebra; En långsam kurs i fysik (gymnasienivå). Python, programmering. Gratis">
@@ -16,7 +19,7 @@ th {text-align: left;}
  <table style="width:100%">
   <tr>
     <th><h2> Matematik </h2></th>
-    <th></th>
+    <th><h2></h2></th>
   </tr>
   
   <tr>
@@ -47,17 +50,16 @@ th {text-align: left;}
 </table> 
 
 <hr>
-<br>
 
 
  <table style="width:100%">
   <tr>
     <th><h2> Fysik </h2></th>
-    <th></th>
+    <th><h2></h2></th>
   </tr>
 
 <tr>
-    <td><h3> Långsam fysikkurs </h3></td>
+    <td><h3>Långsam fysikkurs</h3></td>
     <td></td>
   </tr>
 
@@ -90,18 +92,19 @@ th {text-align: left;}
     <td></td>
   </tr>
 
+</table> 
 <hr>
-<br>
+
 
 <table style="width:100%">
   <tr>
-    <th><h2> Programmering </h2></th>
-    <th></th>
+    <th><h2>Programmering</h2></th>
+    <th><h2></h2></th>
   </tr>
 
 
 <tr>
-<td>Python/Jupyter:[Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
+<td>Python/Jupyter: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
 <td></td>
 </tr>
 
@@ -116,3 +119,5 @@ th {text-align: left;}
 <br>
 <footer>&copy; Leif Karlsson 2021 </footer>
 </body>
+
+</html>
