@@ -38,7 +38,7 @@ output: html_document
     </tr>
     
   <tr>
-    <td>Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)</td>
+    <td>Resurs till Bok: [Del2](/Matematik/Linjär_Algebra/Del2.pdf)</td>
     <td></td>
     </tr>
     
@@ -52,10 +52,10 @@ output: html_document
 ## 
 <h2> Matematik </h2>
 ###   Linjär algebra
-####   Bok i linjär algebra: [Bok/pdf](cognitrap.github.io/Matematik/Linjär_Algebra/LA1.pdf) 210308
+####   Bok i linjär algebra: [Bok/pdf](/Matematik/Linjär_Algebra/LA1.pdf) 210308
 #### Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/Illustr/master?filepath=index.ipynb)
 #### Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA/master?filepath=index.ipynb)
-####  Resurs till Bok: [Del2](cognitrap.github.io/Matematik/Linjär_Algebra/Del2.pdf)
+####  Resurs till Bok: [Del2](/Matematik/Linjär_Algebra/Del2.pdf)
 
 
 
