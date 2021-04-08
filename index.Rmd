@@ -49,23 +49,35 @@ output: html_document
 
 ***
 
-## 
-<h2> Matematik </h2>
-###   Linjär algebra
-####   Bok i linjär algebra: [Bok/pdf](/Matematik/Linjär_Algebra/LA1.pdf) 210308
-#### Illustrationer: [Illustrationer/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA.git/Illustr/master?filepath=index.ipynb)
-#### Projektuppgifter: [Uppgifter/mybinder]( https://mybinder.org/v2/gh/cognitrap/LA.git/master?filepath=index.ipynb)
-####  Resurs till Bok: [Del2](/Matematik/Linjär_Algebra/Del2.pdf)
-
-
-
-###   Flerdimensionell analys
+<!--###   Flerdimensionell analys -->
 
 <!--[Geogebrafiler](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html) -->
 
 
 #### <!-- -->
-<hr>
+
+ <table style="width:100%">
+  <tr>
+    <th><h2> Fysik </h2></th>
+    <th></th>
+  </tr>
+
+<tr>
+    <td><h3> Långsam fysikkurs </h3></td>
+    <th></th>
+  </tr>
+
+
+
+<tr>
+    <td>Rörelsebegrepp: [Movement](cognitrap.github.io/Fysik/LångsamFysikkurs/Movement.pdf)</td>
+    <th></th>
+  </tr>
+
+
+
+
+
 
 
 <h2> Fysik </h2>
