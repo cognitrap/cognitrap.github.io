@@ -75,4 +75,10 @@ th {text-align: left;}
 
 
 
+<tr>
+    <td>[Optimering exempel 1](optimeringex1.ggb)</td>
+    <td></td>
+  </tr>
+
+
 
