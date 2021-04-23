@@ -47,6 +47,13 @@ th {text-align: left;}
     <td></td>
     </tr>
     
+  <tr>
+    <td><h3>Flerdimensionell analys</h3></td>
+    <td><h3>  </h3></td>
+  </tr>
+    
+    
+    
 </table> 
 
 <hr>
