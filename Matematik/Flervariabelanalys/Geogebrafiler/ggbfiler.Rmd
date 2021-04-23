@@ -14,3 +14,5 @@
 [Tangent och derivata](tangentvektParametr.ggb)
 
 [Tangent Exempel 2](tangentexempel2.ggb)
+
+[Parametriserade ytor Exempel](demoparametrytor2.ggb)
