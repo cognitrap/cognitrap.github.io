@@ -68,6 +68,11 @@ th {text-align: left;}
   </tr>
 
 
+<tr>
+    <td>[Taylor anpassning](taylorfitposdefin.ggb)</td>
+    <td></td>
+  </tr>
+
 
 
 
