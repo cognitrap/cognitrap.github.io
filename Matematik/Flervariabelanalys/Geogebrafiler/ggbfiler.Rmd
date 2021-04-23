@@ -12,3 +12,5 @@
 [Tangent Exempel 1](tangentexempel1.ggb)
 
 [Tangent och derivata](tangentvektParametr.ggb)
+
+[Tangent Exempel 2](tangentexempel2.ggb)
