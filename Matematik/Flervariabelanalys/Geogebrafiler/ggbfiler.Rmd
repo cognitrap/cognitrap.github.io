@@ -1,4 +1,4 @@
-## Geogebra
+## Flervariabelanalys
 
 <style>
 th {text-align: left;}
@@ -10,8 +10,8 @@ th {text-align: left;}
  
  
   <tr>
-    <th><h2> Geogebra </h2></th>
-    <th><h2>Bilder (pdf, png...)</h2></th>
+    <th><h3> Geogebra </h3></th>
+    <th><h3>Bilder (pdf, png...)</h3></th>
   </tr>
 
 <tr>
