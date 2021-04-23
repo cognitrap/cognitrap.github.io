@@ -18,7 +18,7 @@ th {text-align: left;}
 
 <tr>
     <td>[Lissajou parameterframställning](Lissajou.ggb)</td>
-    <td>[Tangentplan](/../Pictures/tangentplan2v3.pdf)</td>
+    <td>[Tangentplan](../Pictures/tangentplan2v3.pdf)</td>
   </tr>
 
 
