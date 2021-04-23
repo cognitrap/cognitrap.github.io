@@ -1,5 +1,9 @@
 ## Geogebra
 
+<style>
+th {text-align: left;}
+</style>
+
  <table style="width:100%">
   <tr>
     <th><h2> Geogebra </h2></th>
@@ -14,7 +18,7 @@
 
 <tr>
     <td>[Lissajou parameterframställning](Lissajou.ggb)</td>
-    <td></td>
+    <td>[Tangentplan](/../Pictures/tangentplan2v3.pdf)</td>
   </tr>
 
 
