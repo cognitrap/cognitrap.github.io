@@ -10,3 +10,5 @@
 [Rymdpolära koordinater, yta](rymdpol_koord.ggb)
 
 [Tangent Exempel 1](tangentexempel1.ggb)
+
+[Tangent och derivata](tangentvektParametr.ggb)
