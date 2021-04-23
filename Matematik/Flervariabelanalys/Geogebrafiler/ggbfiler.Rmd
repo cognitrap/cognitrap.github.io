@@ -4,7 +4,11 @@
 th {text-align: left;}
 </style>
 
+
+<body style="background-color:rgb(255,236,148);">
  <table style="width:100%">
+ 
+ 
   <tr>
     <th><h2> Geogebra </h2></th>
     <th><h2>Bilder (pdf, png...)</h2></th>
