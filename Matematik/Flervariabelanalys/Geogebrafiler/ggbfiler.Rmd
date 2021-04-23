@@ -41,15 +41,20 @@ th {text-align: left;}
   </tr>
 
 
-
 <tr>
     <td>[Tangent Exempel 2](tangentexempel2.ggb)</td>
     <td></td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>[Parametriserade ytor Exempel](demoparametrytor2.ggb)</td>
     <td></td>
   </tr>
 
+
+<tr>
+    <td>[Hyperbolisk paraboloid](hyperbolicparaboloidlocked.ggb)</td>
+    <td></td>
+  </tr>
 
 
 
