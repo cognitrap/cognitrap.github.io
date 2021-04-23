@@ -54,7 +54,7 @@ th {text-align: left;}
     
     
   <tr>
-    <td>Illustrationer(bilder, geogebra): [Geogebradokument](cognitrap.github.io/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)</td>
+    <td>Illustrationer(bilder, geogebra): [Geogebradokument](/Matematik/Flervariabelanalys/Geogebrafiler/ggbfiler.html)</td>
     <td></td>
     </tr>
     
