@@ -1,18 +1,55 @@
 ## Geogebra
 
+ <table style="width:100%">
+  <tr>
+    <th><h2> Geogebra </h2></th>
+    <th><h2>Bilder (pdf, png...)</h2></th>
+  </tr>
 
-[Sfär med snitt, nivåkurva](sphere_plane2.ggb)
+<tr>
+    <td>[Sfär med snitt, nivåkurva](sphere_plane2.ggb)</td>
+    <td>[Datorgenerering yta](../Pictures/comp_plot.png)</td>
+  </tr>
 
-[Lissajou parameterframställning](Lissajou.ggb)
 
-[Rymdpolära koordinater, system](rymdpolkoord.ggb)
+<tr>
+    <td>[Lissajou parameterframställning](Lissajou.ggb)</td>
+    <td></td>
+  </tr>
 
-[Rymdpolära koordinater, yta](rymdpol_koord.ggb)
 
-[Tangent Exempel 1](tangentexempel1.ggb)
+<tr>
+    <td>[Rymdpolära koordinater, system](rymdpolkoord.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Rymdpolära koordinater, yta](rymdpol_koord.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Tangent Exempel 1](tangentexempel1.ggb)</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>[Tangent och derivata](tangentvektParametr.ggb)
+</td>
+    <td></td>
+  </tr>
 
-[Tangent och derivata](tangentvektParametr.ggb)
 
-[Tangent Exempel 2](tangentexempel2.ggb)
 
-[Parametriserade ytor Exempel](demoparametrytor2.ggb)
+<tr>
+    <td>[Tangent Exempel 2](tangentexempel2.ggb)</td>
+    <td></td>
+  </tr><tr>
+    <td>[Parametriserade ytor Exempel](demoparametrytor2.ggb)</td>
+    <td></td>
+  </tr>
+
+
+
+
+
+
+
+
