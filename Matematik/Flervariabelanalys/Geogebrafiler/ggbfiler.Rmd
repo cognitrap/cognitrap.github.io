@@ -69,7 +69,7 @@ th {text-align: left;}
 
 
 <tr>
-    <td>[Taylor anpassning](taylorfitposdefin.ggb)</td>
+    <td>[Tayloranpassning](taylorfitposdefin.ggb)</td>
     <td></td>
   </tr>
 
@@ -80,5 +80,10 @@ th {text-align: left;}
     <td></td>
   </tr>
 
+
+<tr>
+    <td>[Lutning plan, max/min-riktning](riktningsderivataplan.ggb)</td>
+    <td></td>
+  </tr>
 
 
