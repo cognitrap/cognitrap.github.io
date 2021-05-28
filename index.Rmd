@@ -28,7 +28,7 @@ th {text-align: left;}
   </tr>
   
   <tr>
-    <td>Bok i linjär algebra: [Bok/pdf](/Matematik/Linjär_Algebra/LA2.pdf) 210507 </td>
+    <td>Bok i linjär algebra: [Bok/pdf](/Matematik/Linjär_Algebra/LA2.pdf) 210528 </td>
     <td></td>
   </tr>
   
