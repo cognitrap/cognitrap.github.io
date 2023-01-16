@@ -117,6 +117,8 @@ th {text-align: left;}
 
 <tr>
 <td>Python/Jupyter: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
+<td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD).</td>
+
 <td></td>
 </tr>
 
