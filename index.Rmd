@@ -128,7 +128,7 @@ table, th, td {border: 1px solid black;
 <td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD).</td>
 -->
 
-<td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fcognitrap%2Fprogr%2Fblob%2Fmain%2Findex.ipynb).</td>
+<td>Python/Jupyterv2:[Python/Jupyterv2](https://mybinder.org/v2/gh/cognitrap/progr.git/HEAD?labpath=index.ipynb).</td>
 
 <!--
 <td>Python/Jupyter: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
