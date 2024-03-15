@@ -144,5 +144,13 @@ table, th, td {border: 1px solid black;
 <br>
 <footer>&copy; Leif Karlsson 2023 </footer>
 </body>
-
+<!-- Begin Web-Stat code v 7.0 -->
+<span id="wts2155334"></span>
+<script>var wts=document.createElement('script');wts.async=true;
+wts.src='https://app.ardalio.com/log7.js';document.head.appendChild(wts);
+wts.onload = function(){ wtslog7(2155334,5); };
+</script><noscript><a href="https://www.web-stat.com">
+<img src="https://app.ardalio.com/7/5/2155334.png" 
+alt="Web-Stat web statistics"></a></noscript>
+<!-- End Web-Stat code v 7.0 -->
 </html>
