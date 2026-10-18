@@ -33,7 +33,7 @@ table, th, td {border: 1px solid black;
   </tr>
   
   <tr>
-    <td>Bok i linjär algebra. Innehåller grunderna i linjär algebra motsvarande en kurs på universitetsnivå: [Bok/pdf](/Matematik/Linjär_Algebra/LA2v4.pdf) 220502 </td>
+    <td>Bok i linjär algebra. Innehåller grunderna i linjär algebra motsvarande en kurs på universitetsnivå: [Bok/pdf](/Matematik/Linjär_Algebra/LA3_260204.pdf) 260204 </td>
     <td> </td>
     <td></td>
   </tr>
@@ -134,7 +134,8 @@ table, th, td {border: 1px solid black;
 <td>Python/Jupyter: [Python/Jupyter]( https://mybinder.org/v2/gh/cognitrap/progr/master?filepath=index.ipynb).</td>
 -->
 
-<td></td>
+<td>Statisk kopia av kapitel 1 och 2 (kursen) : [Kapitel 1](/KopiaStatiskProgr/Kap1.pdf)
+   [Kapitel 2](/KopiaStatiskProgr/Kap2.pdf)</td>
 </tr>
 
 </table>
@@ -143,15 +144,7 @@ table, th, td {border: 1px solid black;
 
 <br>
 <footer>&copy; Leif Karlsson 2023 </footer>
-<!-- Begin Web-Stat code v 7.0 -->
-<span id="wts2155334"></span>
-<script>var wts=document.createElement('script');wts.async=true;
-wts.src='https://app.ardalio.com/log7.js';document.head.appendChild(wts);
-wts.onload = function(){ wtslog7(2155334,5); };
-</script><noscript><a href="https://www.web-stat.com">
-<img src="https://app.ardalio.com/7/5/2155334.png" 
-alt="Web-Stat web statistics"></a></noscript>
-<!-- End Web-Stat code v 7.0 -->
+
 </body>
 
 </html>
